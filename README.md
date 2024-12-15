@@ -8,6 +8,9 @@
 
 A powerful and lightweight tool for converting and resizing images into PNG, ICO, and ICNS formats with customizable rounded corners. Built in Python and ready to run in WebAssembly (WASM) for web-based portability.
 
+> [!WARNING]
+> Development of this repository has been discontinued.
+
 ## Features
 - **Convert Images:** Easily convert any image (e.g., JPG, PNG) into multiple resolutions for PNG, ICO, and ICNS formats.
 - **Rounded Corners:** Apply customizable rounded corners with anti-aliasing for a polished, macOS-like appearance.
