@@ -12,9 +12,7 @@ pip install -r requirements.txt
 
 ## Run
 1. Prepare the source image.
-    ```python
-    run("source.jpg")
-    ```
+    https://github.com/freya-lindberg/wasm-py-png-icons/blob/2eeb1720fee5add1d1e5c327193cb1cb0512750c/main.py#L32
 
 2. Run main.py
     ```
