@@ -25,7 +25,10 @@ A powerful and lightweight tool for converting and resizing images into PNG, ICO
 pip install -r requirements.txt
 ```
 
-## Run
+## Build
+1. (...)
+
+## Run (Python)
 1. Prepare the source image.
     https://github.com/freya-lindberg/WASM-PY-PNG-Icons/blob/2703820f99e81ebc82bc2fdade31ad1a0fee7bb0/main.py#L32
 
@@ -33,6 +36,9 @@ pip install -r requirements.txt
     ```
     python main.py
     ```
+
+## Run (HTML)
+1. (...)
 
 ## Credits
 - <a href="https://github.com/python-pillow/Pillow">Pillow</a>
